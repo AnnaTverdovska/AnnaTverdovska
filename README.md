@@ -1,6 +1,6 @@
-## Hi there,
+Hi there,
 
-I'm **Anna Tverdovska**
+I'm **Anna Tverdovska**.
 
 I am highly curious about getting my hands on complex problems and always happy to connect with other inspiring people just like you.
 
