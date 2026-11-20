@@ -5,7 +5,7 @@ I'm **Anna Tverdovska**
 I am highly curious about getting my hands on complex problems and always happy to connect with other inspiring people just like you.
 
 -  **Current side project:** Building a personalized book recommendation app. Find your next read at [What to Read](https://what-to-read-2.vercel.app/?lang=en).
--  **Focus:** Python, Data Analysis, Business Strategy, Finance
+-  **Focus:** Python, Data Science, ML/AI, Business Strategy, Finance
 -  **Connect with me:** [LinkedIn](https://www.linkedin.com/in/anna-tverdovska/)
 
 <!--
